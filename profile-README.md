@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ oojuelg2526-cmyk
+# ⚔️ Óscar Ojuel
 
 ### Estudiant de Desenvolupament d'Aplicacions Web
 **Politècnics Barcelona · DAW 2025/2026**
